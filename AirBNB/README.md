@@ -1,8 +1,8 @@
 🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
 
-# File Title: TITLE HERE
+# File Title: AirBnb Spreadsheet Data Analysis
 
-DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
+This project involves analyzing Airbnb listing data from New York City to uncover trends, patterns, and actionable insights. 
 
 
 [<img src="URL OF IMAGE" alt="First Sheet of Project**">](URL OF DESTINATION)
