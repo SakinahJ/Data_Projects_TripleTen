@@ -16,7 +16,7 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 | :-----------: | ----------- |----------- |
 | 1 | [FINISHED FILE NAME HERE](URL HERE) | Completed Analysis on NYC Airbnb Data |
 | 2 | [RAW DATA FILE HERE](URL HERE) | Raw and uncleaned data |
-| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 3 | README.md | Contains all relevant project information. |
 | 4 | [Requirements.txt](URL HERE) | Project requirements as provided by TripleTen. |
 
 ### Table of Contents for README
