@@ -1,6 +1,6 @@
 🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
 
-# File Title: AirBnb Spreadsheet Data Analysis
+#  AirBnb Spreadsheet Data Analysis
 
 This project involves analyzing Airbnb listing data from New York City to uncover trends, patterns, and actionable insights. 
 
