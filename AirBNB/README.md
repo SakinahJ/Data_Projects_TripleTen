@@ -22,7 +22,7 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| Description | Describes the final product's purpose, software, format, and included visuals. |
+| Description | Analyzing the Manhattan vacation rental market, made using Microsoft Excel |
 | Process | Describes the process, including tools or tech used. |
 | Data | Describes the data source, including files, tables, and fields. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
