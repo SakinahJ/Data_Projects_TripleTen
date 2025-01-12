@@ -9,7 +9,7 @@ This project involves analyzing Airbnb listing data from New York City to uncove
 
 Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
 Project can be found <a href='URL HERE’><u>here</u>.</a>
-Raw Data can be found <a href='https://github.com/SakinahJ/Data_Projects_TripleTen/blob/4f5efad5820ae570a92c23d586657b1037b5372e/AirBNB/Sakinah%20Husain%20nyc_airbnb_data.xlsx'><u>here</u>.</a>
+Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
