@@ -14,10 +14,9 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](URL HERE) | Completed Analysis on NYC Airbnb Data |
+| 1 | [Airbnb Project Guidelines.txt](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/AirBNB/Airbnb%20Project%20Guidelines.txt) | Project requirements as provided by TripleTen|
 | 2 | [RAW DATA FILE HERE](URL HERE) | Raw and uncleaned data |
 | 3 | README.md | Contains all relevant project information. |
-| 4 | [Requirements.txt](URL HERE) | Project requirements as provided by TripleTen. |
 
 ### Table of Contents for README
 | Section Title | Description |
