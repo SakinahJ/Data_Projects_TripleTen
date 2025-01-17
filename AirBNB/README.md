@@ -5,7 +5,7 @@
 This project involves analyzing Airbnb listing data from New York City to uncover trends, patterns, and actionable insights. 
 
 
-<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/pic.jpg" alt="First Sheet of Project**">
+<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/Screenshot%202025-01-17%20140942.png" alt="First Sheet of Project**">
 
 Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
 Project can be found <a href='URL HERE’><u>here</u>.</a>
