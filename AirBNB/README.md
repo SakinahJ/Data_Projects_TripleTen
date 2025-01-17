@@ -5,7 +5,7 @@
 This project involves analyzing Airbnb listing data from New York City to uncover trends, patterns, and actionable insights. 
 
 
-[<img src="URL OF IMAGE" alt="First Sheet of Project**">](URL OF DESTINATION)
+<img src="URL OF IMAGE" alt="First Sheet of Project**">
 
 Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
 Project can be found <a href='URL HERE’><u>here</u>.</a>
