@@ -15,7 +15,7 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/13QYRL_aoM
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Airbnb Project Guidelines.txt](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/AirBNB/Airbnb%20Project%20Guidelines.txt) | Project requirements as provided by TripleTen|
-| 2 | [RAW DATA FILE HERE](URL HERE) | Raw and uncleaned data |
+| 2 | [RAW DATA FILE HERE](https://docs.google.com/spreadsheets/d/13QYRL_aoMMVYvFQ46r3uS5l3dhGXutInm9R9SBTHogE/edit?usp=sharing) | Raw and uncleaned data |
 | 3 | README.md | Contains all relevant project information. |
 
 ### Table of Contents for README
