@@ -1,4 +1,3 @@
-🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
 
 #  AirBnb Spreadsheet Data Analysis
 
