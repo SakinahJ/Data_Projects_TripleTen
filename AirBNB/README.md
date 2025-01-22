@@ -38,6 +38,7 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/13QYRL_aoM
 Removed incomplete and duplicate entries to ensure accuracy.
 Standardized property type and neighborhood naming conventions.
 Segmented data by neighborhood and property size for focused analysis.
+
 2. Exploratory Data Analysis (EDA)
 Neighborhood Analysis:
 Aggregated data by neighborhoods to evaluate key metrics like average nightly price, occupancy rates, and review scores.
@@ -45,14 +46,17 @@ Identified trends in demand and popularity for each neighborhood.
 Property Size Analysis:
 Grouped properties by the number of bedrooms to analyze performance metrics for each size category.
 Evaluated revenue potential based on average pricing and occupancy rates.
+
 3. Visualization and Trend Identification
 Created visualizations to highlight insights, including:
 Neighborhood comparison charts showing pricing and demand.
 Property size performance heatmaps for quick comparison.
 Bar and line charts illustrating key trends in revenue potential.
+
 4. Recommendations Development
 Combined insights from neighborhood and property size analyses to develop recommendations for investors.
 Provided data-backed guidance on which neighborhoods and property sizes offer the best opportunities for vacation rental investments.
+
 5. Reporting
 Summarized findings in a structured format, using visuals and key metrics to support decision-making.
 Delivered a final set of recommendations aimed at maximizing return on investment.
