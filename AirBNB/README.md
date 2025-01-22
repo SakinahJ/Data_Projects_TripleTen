@@ -82,11 +82,46 @@ Delivered a final set of recommendations aimed at maximizing return on investmen
 - `'calendar_avg_occupied'`: most occupied days
 
 #### Assumptions:
-- LIST ALL ASSUMPTIONS HERE (Use AI)
+Top 10 Neighborhoods: The best neighborhoods for vacation rentals in Manhattan are:
+
+Lower East Side, Hell's Kitchen, Harlem, Midtown, Upper West Side
+Chelsea, East Village, East Harlem, West Village, Nolita
+Top 5 Investment Neighborhoods: Lower East Side, Hell's Kitchen, Harlem, Midtown, and Upper West Side offer the highest potential for investment.
+
+Best Property Size: One-bedroom units perform best in terms of occupancy and revenue.
+
+Most Profitable Days: Thursday, Friday, and Saturday generate the highest earnings.
+
+Occupancy & Revenue (One-Bedroom Units):
+
+Chelsea: 91.35% occupancy, $79,963 revenue
+East Harlem: 79.71% occupancy, $49,643 revenue
+East Village: 94.25% occupancy, $75,584 revenue
+Harlem: 89.31% occupancy, $52,218 revenue
+Hell's Kitchen: 89.24% occupancy, $82,663 revenue
+Superhost Impact: Calculations assume the properties are managed by Superhosts, who can charge higher rates.
+
+Instant Booking: This feature has no significant impact on revenue or ratings.
 
 
 #### Findings:
--LIST KEY INSIGHTS HERE
+The analysis highlights the key factors that contribute to optimal property performance in Manhattan's vacation rental market, including neighborhood, property size, amenities, guest reviews, and occupancy rates.
+
+Top Investment Neighborhoods:
+Among ten analyzed neighborhoods, the top with the highest projected annual revenue is:
+Hell's Kitchen: Prime location with an estimated annual revenue of $82,663 for a one-bedroom unit.
+
+Property Size and Status:
+One-bedroom units perform the best in terms of revenue and occupancy rates.
+Superhost status significantly boosts revenue potential due to increased credibility and higher pricing.
+
+Peak Occupancy:
+Thursdays, Fridays, and Saturdays consistently see the highest occupancy rates, contributing to increased profitability.
+
+Negligible Influences:
+Instant booking and amenities like doorman services have minimal impact on revenue, suggesting they are not critical investment factors.
+These findings provide a clear roadmap for maximizing returns in the Manhattan vacation rental market.
+
 
 #### Recommendations/Results:
 - LIST ALL FUTURE RECS HERE
