@@ -9,7 +9,7 @@ This project involves analyzing Airbnb listing data from New York City to uncove
 
 Project can be found <a href='https://docs.google.com/spreadsheets/d/13QYRL_aoMMVYvFQ46r3uS5l3dhGXutInm9R9SBTHogE/edit?usp=sharing’><u>here</u>.</a>
 
-Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/13QYRL_aoMMVYvFQ46r3uS5l3dhGXutInm9R9SBTHogE/edit?usp=sharing'><u>here</u>.</a>
+Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/13QYRL_aoMMVYvFQ46r3uS5l3dhGXutInm9R9SBTHogE/edit?usp=sharing’><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
