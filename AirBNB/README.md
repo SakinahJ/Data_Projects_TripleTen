@@ -34,7 +34,7 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/13QYRL_aoM
 - This project analyzes Airbnb data to provide actionable insights for investors considering the Manhattan vacation rental market. The analysis focuses on identifying the most attractive neighborhoods and property types to maximize return on investment.
 
 #### Process:
--1. Data Cleaning and Preparation
+1. Data Cleaning and Preparation
 Removed incomplete and duplicate entries to ensure accuracy.
 Standardized property type and neighborhood naming conventions.
 Segmented data by neighborhood and property size for focused analysis.
