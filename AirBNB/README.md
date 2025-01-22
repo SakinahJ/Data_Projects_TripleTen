@@ -124,7 +124,6 @@ These findings provide a clear roadmap for maximizing returns in the Manhattan v
 
 
 #### Recommendations/Results:
-- LIST ALL FUTURE RECS HERE
+The following analysis identifies optimal property characteristics for vacation rentals in Manhattan. Key factors considered include neighborhood, property size, amenities, guest reviews, and occupancy rates. From a pool of ten neighborhoods, the top five with the highest projected annual revenue are presented.
 
-#### Notes:
-LIST ANY NOTES (such as, if a draft page is a requirement)
+Based on the data, Hell's Kitchen emerges as the prime location for investment, with an estimated average annual revenue of $82,663 for a one-bedroom unit. This analysis assumes Superhost status and indicates peak occupancy on Thursdays, Fridays, and Saturdays. While Superhost status positively impacts revenue, factors such as instant booking and doorman services demonstrate negligible influence on earnings.
