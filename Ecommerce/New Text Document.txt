@@ -1,0 +1,18 @@
+
+Step 1 Exploratory Data Analysis:
+
+Analyze the number of taxi rides by company for specific dates in November 2017, sorting by trip volume.
+Focus on companies with "Yellow" or "Blue" in their names for early November and evaluate ride counts for top companies like Flash Cab and Taxi Affiliation Services.
+Group smaller companies into "Other" and sort by trip volume.
+
+Step 2 Ride Duration Analysis:
+
+Compare ride durations from the Loop to O'Hare International Airport on rainy Saturdays versus other days and conditions.
+Identify "Bad" or "Good" weather hours based on conditions (e.g., rain or storms) and link weather data to ride durations.
+Filter for Saturday rides and exclude incomplete weather data.
+
+
+
+
+
+
