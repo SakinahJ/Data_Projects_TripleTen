@@ -17,7 +17,7 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 | 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
 | 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Ecommerce/requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [Requirements.txt](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Ecommerce/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 ### Table of Contents for README
 | Section Title | Description |
