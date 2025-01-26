@@ -1,8 +1,8 @@
 🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
 
-# Zuber Database: E-commerce Project
+# Ride-Sharing Data Analysis for Zuber
 
-This was my first SQL project in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase my proficiency in SQL.In this project, I focused on applying my SQL skills to analyze competitor data, uncover patterns, understand passenger preferences, and assess how external factors impact rides.
+This project focuses on analyzing ride-sharing data to uncover patterns in passenger preferences and the impact of external factors, such as weather, on ride frequency. As an analyst for Zuber, a new ride-sharing company in Chicago, I studied the company’s database and competitor data using SQL to identify trends, optimize services, and understand market dynamics.
 
 
 [<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/SQL%20Ecommerce1.png" alt="First Sheet of Project**">]
