@@ -5,7 +5,7 @@
 This was my first SQL project in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase my proficiency in SQL.In this project, I focused on applying my SQL skills to analyze competitor data, uncover patterns, understand passenger preferences, and assess how external factors impact rides.
 
 
-[<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/SQL%20Ecommerce1.png" alt="First Sheet of Project**">](URL OF DESTINATION)
+[<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/SQL%20Ecommerce1.png" alt="First Sheet of Project**">]
 
 Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
 Project can be found <a href='URL HERE’><u>here</u>.</a>
