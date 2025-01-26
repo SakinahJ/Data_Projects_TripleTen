@@ -14,7 +14,7 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](https://docs.google.com/document/d/18yeuLe5ncimN3pTB99yw3jiHhuXYfKfJDhuY_dBeS84/edit?usp=sharing) | Each task and its result  |
+| 1 | [Zuber Tasks and Results](https://docs.google.com/document/d/18yeuLe5ncimN3pTB99yw3jiHhuXYfKfJDhuY_dBeS84/edit?usp=sharing) | Each task and its result  |
 | 2 | [RAW DATA FILE HERE](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/tablescheme.png) | Image of the data and the relationships within the data |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Ecommerce/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
