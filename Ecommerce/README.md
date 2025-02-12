@@ -50,7 +50,7 @@ Sorted the results.
 #### Data
 A database with info on taxi rides in Chicago provided by TripleTen:
 
-'neighborhoods' table: data on city neighborhoods
+- `'dayofweek_popular__calendar'`: popular day of the weekneighborhoods' table: data on city neighborhoods'`
 
 'name': name of the neighborhood
 
