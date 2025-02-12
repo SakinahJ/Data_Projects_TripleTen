@@ -46,9 +46,13 @@ Sorted the results.
 A database with info on taxi rides in Chicago provided by TripleTen:
 
 'neighborhoods' table: data on city neighborhoods
+
 'name': name of the neighborhood
+
 'neighborhood_id': neighborhood code
+
 'cabs' table: data on taxis
+
 'cab_id': vehicle code
 'vehicle_id': the vehicle's technical ID
 'company_name': the company that owns the vehicle
