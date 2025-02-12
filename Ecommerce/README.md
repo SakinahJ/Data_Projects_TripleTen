@@ -36,10 +36,15 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 
 #### Process:
 Analyzed taxi rides by the company for specific dates, sorting by trip count.
+
 Analyzed rides for companies containing specific keywords, grouping by company name.
+
 Retrieved neighborhood IDs for O'Hare and Loop.
+
 Categorized weather conditions by hour.
+
 Retrieved Saturday rides from Loop to O'Hare, including weather and duration.
+
 Sorted the results.
 
 #### Data
@@ -97,10 +102,15 @@ The record_id serves as the primary key for the weather_records table.
 
 #### Findings:
 Flash Cab recorded the highest number of taxi rides on November 15th-16th, 2017, with a total of 19,558 trips.
+
 When filtering for taxi companies containing the keyword "Yellow" or "Blue", Blue Diamond had the highest number of rides between November 1st-7th, 2017, totaling 6,764 trips.
+
 A comparison of the two most popular taxi companies, Flash Cab and Taxi Affiliation Services, against all other available companies for November 1st-7th, 2017, revealed that the total number of rides from "Other" companies was significantly higher than each top company individually or even when combined.
+
 The SQL neighborhood_id values for the O’Hare and Loop neighborhoods are 63 and 50, respectively.
+
 Each hour in the dataset was assigned a designated weather condition, starting with a default classification of "Good."
+
 A SQL table was generated to display all taxi rides that began in the Loop on a Saturday and ended at O’Hare. The table included start time, weather conditions, and trip duration.
 
 #### Recommendations/Results:
