@@ -50,47 +50,47 @@ Sorted the results.
 #### Data
 A database with info on taxi rides in Chicago provided by TripleTen:
 
-- `'dayofweek_popular__calendar'`: popular day of the weekneighborhoods' table: data on city neighborhoods'`
+`'dayofweek_popular__calendar'`: popular day of the weekneighborhoods' table: data on city neighborhoods'`
 
-'name': name of the neighborhood
+`'name'`: name of the neighborhood
 
-'neighborhood_id': neighborhood code
+`'neighborhood_id'`: neighborhood code
 
-'cabs' table: data on taxis
+`'cabs'` table: data on taxis
 
-'cab_id': vehicle code
+`'cab_id'`: vehicle code
 
-'vehicle_id': the vehicle's technical ID
+`'vehicle_id'`: the vehicle's technical ID
 
-'company_name': the company that owns the vehicle
+`'company_name'`: the company that owns the vehicle
 
-'trips' table: data on rides
+`'trips'` table: data on rides
 
-'trip_id': ride code
+`'trip_id'`: ride code
 
-'cab_id': code of the vehicle operating the ride
+`'cab_id'`: code of the vehicle operating the ride
 
-'start_ts': date and time of the beginning of the ride (time rounded to the hour)
+`'start_ts'`: date and time of the beginning of the ride (time rounded to the hour)
 
-'end_ts': date and time of the end of the ride (time rounded to the hour)
+`'end_ts'`: date and time of the end of the ride (time rounded to the hour)
 
-'duration_seconds': ride duration in seconds
+`'duration_seconds'`: ride duration in seconds
 
-'distance_miles': ride distance in miles
+`'distance_miles'`: ride distance in miles
 
-'pickup_location_id': pickup neighborhood code
+`'pickup_location_id'`: pickup neighborhood code
 
-'dropoff_location_id': dropoff neighborhood code
+`'dropoff_location_id'`: dropoff neighborhood code
 
-'weather_records' table: data on weather
+`'weather_records'` table: data on weather
 
-'record_id': weather record code
+`'record_id'`: weather record code
 
-'ts': record date and time (time rounded to the hour)
+`'ts'`: record date and time (time rounded to the hour)
 
-'temperature': temperature when the record was taken
+`'temperature'`: temperature when the record was taken
 
-'description': a brief description of weather conditions, e.g. "light rain" or "scattered clouds"
+`'description'`: a brief description of weather conditions, e.g. "light rain" or "scattered clouds"
 
 #### Assumptions:
 The trips table and weather_records table do not have a direct relationship in the database.
