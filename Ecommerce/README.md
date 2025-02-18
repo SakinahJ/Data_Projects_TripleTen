@@ -14,10 +14,10 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/1d4F-cNBnb
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Ecommerce/Ecommerce%20BA.pdf) | PDF of all the sheets in the project |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
+| 1 | [ECommerce BA](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Ecommerce/Ecommerce%20BA.pdf) | PDF of all the sheets in the project |
+| 2 | [RAW DATA FILE HERE](https://docs.google.com/spreadsheets/d/1d4F-cNBnb6QgIiRMZ3Gd80F28vTvuID0QM7tk7cDzSM/edit?usp=sharing) | Raw and uncleaned data |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [Requirements.txt](Ecommerce/Project_requirements) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 ### Table of Contents for README
 | Section Title | Description |
