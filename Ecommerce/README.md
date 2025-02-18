@@ -1,21 +1,20 @@
 
-🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
 
-# File Title: TITLE HERE
 
-DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
+# File Title: E-Commerce Business Analysis
+
+This independent project was designed to showcase my expertise in Business Analytics. Its objective was to process raw transaction logs from companies and convert the event data into valuable business metrics.
 
 
 [<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/business%20analyst.png" alt="Collection of Sheets**">](URL OF DESTINATION)
 
-Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
-Project can be found <a href='URL HERE’><u>here</u>.</a>
-Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
+Project can be found <a href='https://docs.google.com/spreadsheets/d/1pMkTI8zeKAuY0dqzxv2NcGWcdgv5ixW8A9V8E-4CuqA/edit?usp=sharing’><u>here</u>.</a>
+Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/1d4F-cNBnb6QgIiRMZ3Gd80F28vTvuID0QM7tk7cDzSM/edit?usp=sharing'><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
+| 1 | [FINISHED FILE NAME HERE](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Ecommerce/Ecommerce%20BA.pdf) | PDF of all the sheets in the project |
 | 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
