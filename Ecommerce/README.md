@@ -24,24 +24,29 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/1d4F-cNBnb
 | Section Title | Description |
 | ----------- |----------- |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
-| Process | Describes the process, including tools or tech used. |
+| Process | An outline of how this project formed from start to finish. |
 | Data | Describes the data source, including files, tables, and fields. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Findings | Insights learned from the data analysis. |
 | Recommendations | Recommended direction for the stakeholders based on final analysis. |
-| Notes | List any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
-- SOFTWARE, NUMBER OF PAGES/SHEETS HERE
-- DESCRIPTION OF WHAT’S INCLUDED/ANALYTICAL FORMATS HERE
+-8 page spreadsheet
+-Includes raw data (Hidden), processed data, data analysis, and pivot tables.
 
 #### Process:
--IF RELEVANT, USE AI TO DESCRIBE THE PROCESS OF THE PROJECT. INCLUDE TOOLS/TECH USED.
+I began by exploring, filtering, and cleaning the data to ensure accuracy and consistency. Next, I developed a conversion funnel and prepared the data for cohort analysis. I then calculated retention rates and finalized the formatting and documentation to enhance readability for the client.
 
 #### Data
-DESCRIPTION HERE:
-- `'TABLE NAME HERE'`: DESCRIPTION HERE
-    - `'FIELD NAME'`: DESCRIPTION HERE
+- `''raw_user_activity'`: Each row represents an activity, or event, by a user on the company’s website
+- `''user_id'`: unique customer IDs
+- `''event_type'`: the type of activity by the user
+- `''category_code'`: category of the product being viewed or purchased
+- `''brand'`: the company that makes the product
+- `''price'`: price of the product, in USD
+- `''event_date'`: date of the user activity, in YYYY-MM-DD format
+- `''Table of Contents'`: Preformated yet empty table of contents sheet
+- `''Executive Summary'`: Preformated yet empty executive summary sheet
 
 #### Assumptions:
 - LIST ALL ASSUMPTIONS HERE (Use AI)
