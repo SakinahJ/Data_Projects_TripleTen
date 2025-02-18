@@ -75,7 +75,6 @@ Analyze why September customers had higher retention and target them with loyalt
 Use personalized emails, rewards programs, and post-purchase engagement to encourage repeat sales.
 Test different marketing strategies to optimize retention efforts.
 
-#### Notes:
-LIST ANY NOTES (such as, if a draft page is a requirement)
+
 
 
