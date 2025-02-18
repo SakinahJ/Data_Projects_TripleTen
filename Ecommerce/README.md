@@ -6,7 +6,7 @@
 DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
 
 
-[<img src="URL OF IMAGE" alt="First Sheet of Project**">](URL OF DESTINATION)
+[<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/business%20analyst.png" alt="Collection of Sheets**">](URL OF DESTINATION)
 
 Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
 Project can be found <a href='URL HERE’><u>here</u>.</a>
