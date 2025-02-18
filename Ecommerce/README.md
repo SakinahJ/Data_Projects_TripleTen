@@ -49,11 +49,16 @@ I began by exploring, filtering, and cleaning the data to ensure accuracy and co
 - `''Executive Summary'`: Preformated yet empty executive summary sheet
 
 #### Assumptions:
-- LIST ALL ASSUMPTIONS HERE (Use AI)
+- The "raw_user_activity" sheet accurately captures all website activity within the specified timeframe.
+-Missing values and inconsistencies are minimal and do not impact analysis.
+-The data format, including column structure and data types, is correct and consistent.
 
 
 #### Findings:
--LIST KEY INSIGHTS HERE
+-Results: Conversion Funnel	
+Synopsis: From customers that have viewed the website, 29% of them have added an item or items to their shopping cart.  Out of those who added items to the shopping cart, there is a 36% conversion rate to the actual purchase from the cart.  
+-Results: Retention Rates	
+SynopsisPurchases decrease over time. However, customers who made thier first purchase in September had higher retention that other months following.  It would be beneficial to try various targeted campaigns to these customers to increase the retention and sales rates. 
 
 #### Recommendations/Results:
 - LIST ALL FUTURE RECS HERE
