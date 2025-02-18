@@ -55,16 +55,25 @@ I began by exploring, filtering, and cleaning the data to ensure accuracy and co
 
 
 #### Findings:
--Results: Conversion Funnel	
+Results: Conversion Funnel	
 
 Synopsis: From customers that have viewed the website, 29% of them have added an item or items to their shopping cart.  Out of those who added items to the shopping cart, there is a 36% conversion rate to the actual purchase from the cart.  
 
--Results: Retention Rates	
+Results: Retention Rates	
 
 Synopsis: Purchases decrease over time. However, customers who made thier first purchase in September had higher retention that other months following.  It would be beneficial to try various targeted campaigns to these customers to increase the retention and sales rates. 
 
 #### Recommendations/Results:
-- LIST ALL FUTURE RECS HERE
+#### Boost Conversion Rates
+
+Send abandoned cart emails or push notifications to recover lost sales.
+Offer limited-time discounts and simplify the checkout process.
+Improve product pages with better visuals, descriptions, and reviews.
+
+#### Increase Retention
+Analyze why September customers had higher retention and target them with loyalty offers.
+Use personalized emails, rewards programs, and post-purchase engagement to encourage repeat sales.
+Test different marketing strategies to optimize retention efforts.
 
 #### Notes:
 LIST ANY NOTES (such as, if a draft page is a requirement)
