@@ -9,6 +9,7 @@ This independent project was designed to showcase my expertise in Business Analy
 [<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/business%20analyst.png" alt="Collection of Sheets**">](URL OF DESTINATION)
 
 Project can be found <a href='https://docs.google.com/spreadsheets/d/1pMkTI8zeKAuY0dqzxv2NcGWcdgv5ixW8A9V8E-4CuqA/edit?usp=sharing’><u>here</u>.</a>
+
 Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/1d4F-cNBnb6QgIiRMZ3Gd80F28vTvuID0QM7tk7cDzSM/edit?usp=sharing'><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
