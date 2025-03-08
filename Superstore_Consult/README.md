@@ -9,6 +9,7 @@ The objective was to analyze the store’s operations and provide data-driven in
 [<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/superstoreconsultimage.png" alt="First Sheet of Project**">](URL OF DESTINATION)
 
 Project can be found <a href='https://public.tableau.com/views/sprint4project_17301610866770/profitsandlosses1_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><u>here</u>.</a>
+
 Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/12VWYzMGzCs2y1U4VyKe-Jlu0EI3dMkJPdAqE4jwFqsM/edit?usp=sharingE'><u>here</u>.</a>
 
 
@@ -17,9 +18,9 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/12VWYzMGzC
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
-| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 4 | [superstore_consult.txt](https://docs.google.com/document/d/1ZaVsASRBVkrQZ6-zo5DY4c1tZ5gZ4ZvhvlBNraBtxoA/edit?usp=sharing) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 2 | [Reviewer Grade](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/superstore_consult_grade.png) | Comments left by my project reviewer |
 
 ### Table of Contents for README
 | Section Title | Description |
