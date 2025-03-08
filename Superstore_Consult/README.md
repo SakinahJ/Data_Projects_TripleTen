@@ -17,7 +17,7 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/12VWYzMGzC
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
+| 1 | [Raw Data](https://docs.google.com/spreadsheets/d/12VWYzMGzCs2y1U4VyKe-Jlu0EI3dMkJPdAqE4jwFqsM/edit?usp=sharing) | Raw data provided by TripleTen |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [superstore_consult.txt](https://docs.google.com/document/d/1ZaVsASRBVkrQZ6-zo5DY4c1tZ5gZ4ZvhvlBNraBtxoA/edit?usp=sharing) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 2 | [Reviewer Grade](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/superstore_consult_grade.png) | Comments left by my project reviewer |
