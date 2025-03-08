@@ -1,4 +1,3 @@
-🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
 
 # File Title: Superstore Consult
 
