@@ -24,35 +24,57 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/12VWYzMGzC
 | Section Title | Description |
 | ----------- |----------- |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
-| Process | Describes the process, including tools or tech used. |
+| Process | A general outline of how this project from start to finish. |
 | Data | Describes the data source, including files, tables, and fields. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Findings | Insights learned from the data analysis. |
 | Recommendations | Recommended direction for the stakeholders based on final analysis. |
-| Notes | List any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
-- SOFTWARE, NUMBER OF PAGES/SHEETS HERE
-- DESCRIPTION OF WHAT’S INCLUDED/ANALYTICAL FORMATS HERE
+- 8-page Tableau Visualization
+- Includes data analysis, charts, and dashboard.
 
 #### Process:
--IF RELEVANT, USE AI TO DESCRIBE THE PROCESS OF THE PROJECT. INCLUDE TOOLS/TECH USED.
+Joined Sheets – Merged relevant data tables for analysis.
+Identified Profit & Loss Centers – Determined key areas driving profitability and losses.
+Evaluated Advertising Impact – Assessed the value of advertising during company triage.
+
 
 #### Data
-DESCRIPTION HERE:
-- `'TABLE NAME HERE'`: DESCRIPTION HERE
-    - `'FIELD NAME'`: DESCRIPTION HERE
+DESCRIPTION HERE: One Excel spreadsheet file provided by TripleTen
+- `'orders'`: details all fields for each ordered item
+- `'returns'`: details all fields for each returned item
+
 
 #### Assumptions:
-- LIST ALL ASSUMPTIONS HERE (Use AI)
+- Profits from sales are totaling in the negative.
+- There is one or more causes for negative profits directly related to orders and returns.
+- The operations department will need to make changes.
+- The advertising department needs recommendations.
 
 
 #### Findings:
--LIST KEY INSIGHTS HERE
+Subcategories profit centers are Copiers, Phones, and Accessories while loss centers are Tables, Bookcases, and Supplies based on profits.
+
+Profit Centers are Office Supplies and Technology in the West Region while loss centers are Office Supplies and Furniture in the Central Region based on profits.
+
+Several products are causing negative profits, some as high as $20k in losses.
+
+Advertising campaigns should be targeted towards Indiana in October, Missouri in November, and Vermont in November.
+
+Returns are a serious problem with many products having high return rates, as high as 100%.
+
+There are several customers with high return rates, as high as 100%.
+
+When considering average profits vs return rate, there are a few individual products that are not worth selling and many products left to consider continuing or not.
 
 #### Recommendations/Results:
-- LIST ALL FUTURE RECS HERE
+- Optimize Profitable Areas – Focus sales and marketing efforts on high-performing products and regions to sustain profitability. Invest in marketing and product development to maximize success.
+ 
+- Address Loss-Making Products – Conduct a detailed analysis to determine the causes of losses. Adjust pricing, improve operations, or discontinue consistently unprofitable products.
+  
+- Strategic Advertising – Allocate 1/5 of a state’s monthly profits to advertising during peak seasons. Tailor campaigns to regional preferences and market trends for maximum ROI.
 
-#### Notes:
-LIST ANY NOTES (such as, if a draft page is a requirement)
+- Reduce Return Impact – Investigate high return rates, as they significantly impact profitability. Analyze customer behavior, address repeat return issues, and implement loyalty programs to improve retention.
+
 
