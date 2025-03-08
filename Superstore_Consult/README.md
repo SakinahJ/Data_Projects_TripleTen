@@ -8,12 +8,9 @@ The objective was to analyze the store’s operations and provide data-driven in
 
 [<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/superstoreconsultimage.png" alt="First Sheet of Project**">](URL OF DESTINATION)
 
-Project can be found <a href= 'https://public.tableau.com/views/sprint4project_17301610866770/profitsandlosses1_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link’><u>here</u>.</a>
+Project can be found <a href='https://public.tableau.com/views/sprint4project_17301610866770/profitsandlosses1_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><u>here</u>.</a>
 Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/12VWYzMGzCs2y1U4VyKe-Jlu0EI3dMkJPdAqE4jwFqsM/edit?usp=sharingE'><u>here</u>.</a>
 
-Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
-Project can be found <a href='URL HERE’><u>here</u>.</a>
-Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 
 
 ### Table of Contents for Repository Artifacts
