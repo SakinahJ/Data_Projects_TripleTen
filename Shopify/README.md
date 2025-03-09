@@ -31,16 +31,21 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 | Notes | List any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
-- SOFTWARE, NUMBER OF PAGES/SHEETS HERE
-- DESCRIPTION OF WHAT’S INCLUDED/ANALYTICAL FORMATS HERE
+- 3 page Power BI Dashboard
+- Includes data analysis, KPI cards and Charts
 
 #### Process:
--IF RELEVANT, USE AI TO DESCRIBE THE PROCESS OF THE PROJECT. INCLUDE TOOLS/TECH USED.
+1.Assessed App Store Landscape – Used KPI cards and charts to analyze key metrics.
+2.Cataloged Review Data – Visualized review trends with cards and charts.
+3.Analyzed App Developers – Examined developer performance across different review types.
 
 #### Data
-DESCRIPTION HERE:
-- `'TABLE NAME HERE'`: DESCRIPTION HERE
-    - `'FIELD NAME'`: DESCRIPTION HERE
+DESCRIPTION HERE: The Excel file provided by TripleTen was was public data scraped from the Shopify App Store.
+- `'shopify.xlsx'`: Excel Workbook containing 4 sheets
+    - `'apps'`: Details of the apps on the Shopify apps marketplace
+    - `'apps_categories'`: Join tables to connect apps with categories
+    - `'categories'`: Categories of the apps. Each app has multiple categories
+    - `'reviews'`: Each review (row) contains information on user opinion about the related app (rating and comment). Also, it contains the response from the developer if present.
 
 #### Assumptions:
 - LIST ALL ASSUMPTIONS HERE (Use AI)
