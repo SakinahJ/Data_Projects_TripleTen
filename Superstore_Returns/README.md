@@ -19,7 +19,7 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/12VWYzMGzC
 | :-----------: | ----------- |----------- |
 | 1 | [Superstore raw data](https://docs.google.com/spreadsheets/d/12VWYzMGzCs2y1U4VyKe-Jlu0EI3dMkJPdAqE4jwFqsM/edit?usp=sharing) | Raw Data |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 3 | [Requirements.txt](https://docs.google.com/document/d/1fup3fSwacoH9fDKhvmhHKg_UpLletwsS9u8RP3jPxyc/edit?usp=sharing) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 4 | [Reviewer Grade](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/reviewergradesuperstorereturn.png) | DESCRIPTION HERE |
 
 
