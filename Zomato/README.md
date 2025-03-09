@@ -1,6 +1,6 @@
 # File Title: Zomato Restaurant Analysis
 
-As a junior analyst at Zomato, this project focuses on evaluating restaurant performance using test datasets. The goal is to identify key factors contributing to restaurant popularity and revenue generation.
+In this project as a junior analyst at Zomato, this project focused on evaluating restaurant performance using test datasets. The goal was to identify key factors contributing to restaurant popularity and revenue generation.
 
 Key Analysis Areas:
 Restaurant Popularity: Identifying top-performing restaurants based on customer engagement, ratings, and order frequency.
