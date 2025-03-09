@@ -1,23 +1,24 @@
 🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
 
-# File Title: TITLE HERE
+# File Title: Shopify App Analysis
 
-DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
+This independent project, part of the TripleTen Business Intelligence Analytics Program, highlights my skills in Power BI.
 
+Objective:
+Analyze data from publicly available Shopify websites to identify key factors contributing to the success of Shopify apps.
 
 <img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/sprint%206%20project.png" alt="First Sheet of Project**">
 
-Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
 Project can be found <a href='URL HERE’><u>here</u>.</a>
 Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
-| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+
+| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 2 | [Requirements.txt](https://docs.google.com/document/d/1zI3M7jNENdJgVd2Lg2QNkEok7WJjzpmKeq9dtXpqcxM/edit?usp=sharing) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 3 | [Project Summary](https://docs.google.com/document/d/1wOvwgkWLI1fbcOORLJhPYhIHTW3wh4LLxVCw7NOG278/edit?usp=sharing) | A txt file with Data Model, DAX Calculated Fields, and Dashboards.|
 
 ### Table of Contents for README
 | Section Title | Description |
