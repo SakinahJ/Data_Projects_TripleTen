@@ -51,7 +51,7 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/12VWYzMGzC
 DESCRIPTION HERE:
 - `'Superstore.xls'`: each row corresponds to one product sold; sheets were LEFT JOIN'd
     - `'orders'`: details all fields for each ordered item
-    -  - `'returns'`:  details all fields for each returned item
+    - `'returns'`:  details all fields for each returned item
  
 
 #### Assumptions:
