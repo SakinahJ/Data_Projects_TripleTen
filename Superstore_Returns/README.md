@@ -12,7 +12,7 @@ Video Overview can be found <a href='https://www.youtube.com/watch?v=CWi3l8SP6xs
 
 Project can be found <a href='https://public.tableau.com/views/Sprint5ProjectEdited/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><u>here</u>.</a>
 
-Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
+Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/12VWYzMGzCs2y1U4VyKe-Jlu0EI3dMkJPdAqE4jwFqsM/edit?usp=sharing'><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
