@@ -1,4 +1,4 @@
-🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
+
 
 # File Title: Shopify App Analysis
 
