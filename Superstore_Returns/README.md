@@ -8,7 +8,7 @@ I conducted an analysis for the CEO of Superstore to identify key factors drivin
 
 [<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/sprint5dashboard.png" alt="First Sheet of Project**">](URL OF DESTINATION)
 
-Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
+Video Overview can be found <a href='https://www.youtube.com/watch?v=CWi3l8SP6xs’><u>here</u>.</a>
 Project can be found <a href='URL HERE’><u>here</u>.</a>
 Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 
