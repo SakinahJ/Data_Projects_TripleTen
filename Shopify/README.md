@@ -5,7 +5,7 @@
 DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
 
 
-[<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/sprint%206%20project.png" alt="First Sheet of Project**">](URL OF DESTINATION)
+<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/sprint%206%20project.png" alt="First Sheet of Project**">
 
 Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
 Project can be found <a href='URL HERE’><u>here</u>.</a>
