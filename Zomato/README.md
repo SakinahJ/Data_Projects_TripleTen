@@ -3,9 +3,9 @@
 DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
 
 
-[<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/zomato.png" alt="First Sheet of Project**">](URL OF DESTINATION)
+<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/zomato.png" alt="First Sheet of Project**">
 
-Project can be found <a href='https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Zomato/Zomato%20Presentation.pdf’><u>here</u>.</a>
+Project can be found <a href='https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Zomato/Zomato%20Presentation.pdf'><u>here</u>.</a>
 Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
