@@ -15,11 +15,8 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-
 | 2 | [Requirements.txt](https://docs.google.com/document/d/1zI3M7jNENdJgVd2Lg2QNkEok7WJjzpmKeq9dtXpqcxM/edit?usp=sharing) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-
 | 3 | [Project Summary](https://docs.google.com/document/d/1wOvwgkWLI1fbcOORLJhPYhIHTW3wh4LLxVCw7NOG278/edit?usp=sharing) | A .txt file with Data Model, DAX Calculated Fields, and Dashboards.|
 
 ### Table of Contents for README
