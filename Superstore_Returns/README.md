@@ -17,10 +17,11 @@ Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/12VWYzMGzC
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
-| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 1 | [Superstore raw data](https://docs.google.com/spreadsheets/d/12VWYzMGzCs2y1U4VyKe-Jlu0EI3dMkJPdAqE4jwFqsM/edit?usp=sharing) | Raw Data |
+| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 3 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [Reviewer Grade](https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/reviewergradesuperstorereturn.png) | DESCRIPTION HERE |
+
 
 ### Table of Contents for README
 | Section Title | Description |
