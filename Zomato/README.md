@@ -40,13 +40,13 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 - 8 worksheets in Power BI and 2 dashboards
 - Restaurant Analysis: What restaurants are popular? What restaurants generate the highest revenue? Why?
 - Includes KPI cards, pie charts, bar charts, and trend lines.
-- 
+  
 #### Process:
--Data Preparation – Cleaned and integrated multiple datasets to ensure accuracy and consistency.
--Exploratory Data Analysis (EDA) – Identified key trends in restaurant popularity, revenue, and customer engagement.
--KPI Development – Created key performance indicators (KPIs) to measure restaurant success and customer satisfaction.
--Visualization & Dashboard Creation – Designed interactive Power BI dashboards with charts, graphs, and tables for insights.
--Insights & Recommendations – Analyzed trends, identified revenue drivers, and provided data-driven recommendations for Zomato.
+- Data Preparation – Cleaned and integrated multiple datasets to ensure accuracy and consistency.
+- Exploratory Data Analysis (EDA) – Identified key trends in restaurant popularity, revenue, and customer engagement.
+- KPI Development – Created key performance indicators (KPIs) to measure restaurant success and customer satisfaction.
+- Visualization & Dashboard Creation – Designed interactive Power BI dashboards with charts, graphs, and tables for insights.
+- Insights & Recommendations – Analyzed trends, identified revenue drivers, and provided data-driven recommendations for Zomato.
 
 #### Data
 DESCRIPTION HERE:Zomato data.zip
@@ -55,25 +55,25 @@ DESCRIPTION HERE:Zomato data.zip
     - `'restaurant'`: All restaurants with ratings and location.
 
 #### Assumptions:
--Restaurants with higher ratings and more reviews are generally more popular and profitable.
--Revenue is influenced by factors such as location, cuisine type, pricing, and customer engagement.
--Customer satisfaction is a key driver of repeat business and overall restaurant success.
--Restaurants with frequent orders and high customer retention generate more revenue.
--Delivery efficiency and service quality impact customer satisfaction and restaurant performance.
--Data provided is accurate, representative, and up-to-date for meaningful analysis.
+- Restaurants with higher ratings and more reviews are generally more popular and profitable.
+- Revenue is influenced by factors such as location, cuisine type, pricing, and customer engagement.
+- Customer satisfaction is a key driver of repeat business and overall restaurant success.
+- Restaurants with frequent orders and high customer retention generate more revenue.
+- Delivery efficiency and service quality impact customer satisfaction and restaurant performance.
+- Data provided is accurate, representative, and up-to-date for meaningful analysis.
 
 
 #### Findings:
--Zomato has a large database of restaurant clients across cities in India.
--Sales have been declining since 2018.
--Indian cuisine is the most popular and generates the highest sales.
--American franchise restaurants receive more ratings than local restaurants, likely due to better marketing tools and a stronger online presence.
--Pizza is a popular cuisine, with Domino’s being the top-selling restaurant.
--The top cities generating the highest sales are Bangalore (Bengaluru), followed by Delhi, Mumbai, and Noida.
+- Zomato has a large database of restaurant clients across cities in India.
+- Sales have been declining since 2018.
+- Indian cuisine is the most popular and generates the highest sales.
+- American franchise restaurants receive more ratings than local restaurants, likely due to better marketing tools and a stronger online presence.
+- Pizza is a popular cuisine, with Domino’s being the top-selling restaurant.
+- The top cities generating the highest sales are Bangalore (Bengaluru), followed by Delhi, Mumbai, and Noida.
 
 #### Recommendations/Results:
--Strategic Client Onboarding:
-Focus on onboarding clients located in high-performing cities where our
+- Strategic Client Onboarding:
+-- Focus on onboarding clients located in high-performing cities where our
 platform demonstrates strong sales traction.
 -Performance-Based Client Optimization: 
 Conduct a thorough analysis to identify and potentially phase
