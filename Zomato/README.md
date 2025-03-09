@@ -24,7 +24,7 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 | 5 | [CLEAN DATA FILE 2 HERE](https://docs.google.com/spreadsheets/d/1Ds2HUIn_8mtRan3shn_xVX1HQOc3vGozgq-uHbHqeVk/edit?usp=sharing) | Raw file for the orders data used for analysis |
 | 6 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 7 | [Requirements.txt](https://docs.google.com/document/d/1jzZ7aFNw5tob83UqyLRSB6uvAA2uo_OjLuAOBe_4Qiw/edit?usp=sharing) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 8 | [Zomato Tableau Link (https://public.tableau.com/views/ZomatoRestaurantAnalysis_17356671757700/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Analysis on Tableau |
+| 8 | [Zomato Tableau Link](https://public.tableau.com/views/ZomatoRestaurantAnalysis_17356671757700/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Analysis on Tableau |
 
 
 ### Table of Contents for README
