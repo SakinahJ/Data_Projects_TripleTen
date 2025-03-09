@@ -6,7 +6,7 @@ This independent project, part of the TripleTen Business Intelligence Analytics 
 I conducted an analysis for the CEO of Superstore to identify key factors driving order returns and provide actionable insights to reduce return volume.
 
 
-[<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/sprint5dashboard.png">](URL OF DESTINATION)
+<img src="https://github.com/SakinahJ/Data_Projects_TripleTen/blob/main/Images/sprint5dashboard.png">
 
 Video Overview can be found <a href='https://www.youtube.com/watch?v=CWi3l8SP6xs'><u>here</u>.</a>
 
