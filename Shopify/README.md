@@ -48,14 +48,19 @@ DESCRIPTION HERE: The Excel file provided by TripleTen was was public data scrap
     - `'reviews'`: Each review (row) contains information on user opinion about the related app (rating and comment). Also, it contains the response from the developer if present.
 
 #### Assumptions:
-- LIST ALL ASSUMPTIONS HERE (Use AI)
+- The scraped data from Shopify websites is accurate and representative of the actual app landscape.
+- The data in the shopify.xlsx file is complete and consistent, with minimal missing values or inconsistencies.
+- The provided column names and data types in the tables accurately reflect their content.
 
 
 #### Findings:
--LIST KEY INSIGHTS HERE
+- New apps tend to receive ratings early in their deployment.
+- Most apps receive favorable ratings.
+- Developer responses to reviews positively impact overall ratings.
+- Reviews marked as helpful have an average rating of 5.48.
+- Top Developers:
+- Elfsight holds the highest total rating at 135.10 stars.
+- Pictorem has the highest average helpful reviews at 50.
+- FireApps leads in review engagement with 6,008 responses.
 
-#### Recommendations/Results:
-- LIST ALL FUTURE RECS HERE
 
-#### Notes:
-LIST ANY NOTES (such as, if a draft page is a requirement)
